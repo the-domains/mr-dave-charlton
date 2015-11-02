@@ -22,7 +22,7 @@ color:
     - '#afafaf'
     - '#767676'
   brandStrength: 1
-  lightness: 0.3329677968285978
-  saturation: 0.9507066220976412
-  rhythmicContrast: 0.5567961654160172
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
