@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mr Dave Charlton]]></title>
         <description><![CDATA[Mr Dave Charlton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mr-dave-charlton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 22:16:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 Nov 2015 22:20:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mr-dave-charlton/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
             <description><![CDATA[<article><h1>Welcome</h1><p>TO MY NEW WEBSITE</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e29b5500-bc41-4d45-9f31-dbec11ac7457.JPG"></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/mr-dave-charlton/welcome/index.html</link>
             <guid isPermaLink="false">ddc44ef6-79d5-4cd0-9570-fc972e7adc19</guid>
-            <pubDate>Mon, 02 Nov 2015 22:16:31 GMT</pubDate>
+            <pubDate>Mon, 02 Nov 2015 22:20:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
