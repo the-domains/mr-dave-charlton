@@ -1,6 +1,6 @@
 name: Mr Dave Charlton
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.49444
 typography_spectrum: 0.96523
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 1
   lightness: 1
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
